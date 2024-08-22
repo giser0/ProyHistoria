@@ -1,0 +1,28 @@
+*
+{
+    margin: 10px;
+}
+body
+{
+    background-color: rgb(212, 255, 0);
+}
+h1
+{
+    color:coral;
+    font-family: tahoma;
+
+}
+h2
+{
+    color: aqua;
+}
+img
+{
+    width: 300px;
+    height: 180px;
+}
+p
+{
+    color: blueviolet;
+    background-color: azure;
+}
